@@ -8,7 +8,7 @@ format: html
 ---
 
 # Diseño experimental
-$$hi = /mu + ddp + tratamiento + ddp * tratamiento + plantas + e$$
+$$y = /mu + ddp + tratamiento + ddp * tratamiento + plantas + e$$
 
 # Cargar paquetes
 ```{r}
